@@ -75,3 +75,33 @@
 </div>
 
 <h2>🌟 Featured Projects</h2><div align="center"> <table> <tr> <td align="center"> <a href="https://github.com/mamiblog/nextjs-microservices"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mamiblog&repo=nextjs-microservices&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" /> </a> </td> <td align="center"> <a href="https://github.com/mamiblog/ai-chat-platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mamiblog&repo=ai-chat-platform&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" /> </a> </td> </tr> </table> </div><!-- 10. WAKATIME STATS (Eğer WakaTime kullanıyorsanız) --><h2>⏰ Coding Time</h2><div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mamiblog&theme=radical&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&custom_title=Weekly%20Development%20Breakdown" /> </div><!-- 11. SPOTIFY STATUS (Opsiyonel) --><h2>🎵 Now Playing</h2><div align="center"> <!-- Spotify Status Card --> <a href="https://open.spotify.com/user/mamiblog"> <img src="https://spotify-github-profile-kappa.vercel.app/api/view?uid=mamiblog&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width="400" /> </a> </div><!-- 12. QUOTE GENERATOR --><h2>💭 Daily Quote</h2><div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="600" /> </div><!-- 13. METRICS GRAFİĞİ --><h2>📊 Detailed Metrics</h2><div align="center"> <!-- GitHub Metrics --> <img src="https://metrics.lecoq.io/mamiblog?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FIstanbul" width="800" /> </div><!-- 14. PROFİL DETAY KARTLARI --><h2>📋 Profile Details</h2><div align="center"> <!-- Profile Summary Cards --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamiblog&theme=github_dark" /> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamiblog&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamiblog&theme=github_dark" /> </div><!-- 15. KOD ÖRNEKLERİ --><h2>💻 Code Examples</h2>
+
+// Modern React Component with TypeScript & Tailwind
+interface User {
+  id: string;
+  name: string;
+  email: string;
+  avatar: string;
+  role: 'admin' | 'user' | 'moderator';
+}
+
+const UserCard: React.FC<User> = ({ name, email, avatar, role }) => {
+  return (
+    <div className="relative group">
+      <div className="absolute -inset-0.5 bg-gradient-to-r from-pink-600 to-purple-600 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
+      <div className="relative px-7 py-6 bg-gray-900 rounded-lg leading-none flex items-center space-x-6">
+        <img className="w-12 h-12 rounded-full" src={avatar} alt={name} />
+        <div>
+          <h3 className="text-lg font-semibold text-white">{name}</h3>
+          <p className="text-gray-400 text-sm">{email}</p>
+          <span className={`px-2 py-1 text-xs rounded-full ${
+            role === 'admin' ? 'bg-red-500' : 
+            role === 'moderator' ? 'bg-blue-500' : 'bg-green-500'
+          }`}>
+            {role}
+          </span>
+        </div>
+      </div>
+    </div>
+  );
+};
