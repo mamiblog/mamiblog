@@ -1,81 +1,76 @@
-# 👋 Merhaba, Ben Mami
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mamiblog.github.io)
-
-## 🚀 Teknoloji Stack'im
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **DevOps & Araçlar**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub İstatistiklerim
+# 🚀 Mami Blog - Full Stack Developer
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamiblog&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamiblog&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" />
+  
+  [![Website](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mami-blog.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamiblog)
+  [![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mami_blog)
+  [![Email](https://img.shields.io/badge/📧_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@mamiblog.dev)
+  
 </div>
 
+## 📊 GitHub Analytics
+
 <div align="center">
+  <a href="https://github.com/mamiblog">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamiblog&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamiblog&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  </a>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamiblog&theme=radical&hide_border=true" />
 </div>
 
-## 📈 GitHub Katkı Grafiği
+## 🛠️ Tech Stack
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=mamiblog&theme=react-dark&hide_border=true&area=true&custom_title=Mami%27nin%20Katk%C4%B1%20Grafi%C4%9Fi)
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-## 🏆 GitHub Başarımları
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mamiblog&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🌟 Öne Çıkan Projelerim
+## 🌟 Featured Projects
 
-### 🔥 [Blog Platform](https://github.com/mamiblog/blog-platform)
-**Teknoloji:** Next.js, TypeScript, Tailwind CSS, PostgreSQL
-- ✨ Modern ve responsive blog platformu
-- 🚀 SEO dostu yapı ile hızlı sayfa yüklemeleri
-- 📈 Kullanıcı dostu admin paneli
+### 🔥 [Next.js Blog Platform](https://github.com/mamiblog/nextjs-blog)
+Modern blog platform with Next.js 14, TypeScript, and Tailwind CSS.
+- **Tech:** Next.js 14, TypeScript, Tailwind, PostgreSQL
+- **Features:** MDX support, SEO optimized, Dark mode, Admin panel
+- **Status:** 🚀 Active Development
 
-### 🎨 [E-Ticaret API](https://github.com/mamiblog/ecommerce-api)
-**Teknoloji:** Node.js, Express, MongoDB, JWT
-- 🎯 RESTful API tasarımı
-- 💡 Güvenli ödeme entegrasyonları
-- 🔧 Gerçek zamanlı stok yönetimi
+### 🎨 [E-commerce Dashboard](https://github.com/mamiblog/ecommerce-dashboard)
+Real-time e-commerce analytics dashboard.
+- **Tech:** React, Chart.js, Node.js, MongoDB
+- **Features:** Real-time analytics, Sales tracking, Inventory management
+- **Status:** ✅ Completed
 
-### 🚀 [Task Manager App](https://github.com/mamiblog/task-manager)
-**Teknoloji:** Vue.js, Firebase, SCSS
-- 📱 Progressive Web App özellikleri
-- 🔔 Bildirim sistemi
-- 📊 Detaylı istatistik ve raporlama
+### ⚡ [TaskFlow](https://github.com/mamiblog/taskflow)
+Productivity app with drag-and-drop functionality.
+- **Tech:** Vue 3, Firebase, Vite
+- **Features:** Kanban board, Team collaboration, Notifications
+- **Status:** 🛠️ Maintenance
 
-## 🛠️ Son Çalıştığım Teknolojiler
+## 📈 Contribution Graph
 
-javascript
-const currentStack = {
-  languages: ["JavaScript", "TypeScript", "Python"],
-  frameworks: {
-    frontend: ["React", "Vue.js", "Next.js"],
-    backend: ["Node.js", "FastAPI", "Express"],
-  },
-  tools: ["Docker", "Git", "VS Code", "Figma"],
-  learning: ["GraphQL", "Kubernetes", "Microservices"]
-};
-
+```mermaid
+graph TD
+    A[Open Source] --> B[Bug Fixes]
+    A --> C[Feature Development]
+    A --> D[Documentation]
+    B --> E[Community Impact]
+    C --> E
+    D --> E
+    E --> F[Better Ecosystem]
