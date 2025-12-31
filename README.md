@@ -68,7 +68,7 @@
 
 ## 🛠️ Son Çalıştığım Teknolojiler
 
-```javascript
+javascript
 const currentStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
   frameworks: {
@@ -78,3 +78,4 @@ const currentStack = {
   tools: ["Docker", "Git", "VS Code", "Figma"],
   learning: ["GraphQL", "Kubernetes", "Microservices"]
 };
+
