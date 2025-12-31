@@ -1,52 +1,45 @@
-<!-- Banner -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Muhammed%20Yalçın&fontSize=40&fontColor=ffffff" />
-</p>
-
-<h3 align="center">
-Web Developer | Frontend & Full Stack
-</h3>
-
-<p align="center">
-Next.js • React • MongoDB • TailwindCSS
-</p>
-
----
-
-## 📊 Developer Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Muhammed%20Yalçın&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KULLANICI_ADIN&theme=react&hide_border=true" />
+  <strong>Modern Web Developer</strong><br/>
+  Frontend & Full Stack • Clean Code • Scalable UI
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=react&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,mongodb,tailwind&theme=dark" />
 </p>
 
 ---
 
-## ⏱️ Coding Activity (WakaTime)
+## 📈 Activity Snapshot
 
-<!-- Eğer WakaTime kullanırsan -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KULLANICI_ADIN&theme=react&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KULLANICI_ADIN&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Language Focus
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,mongodb,nodejs,tailwind,git,github&theme=dark" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## 📈 Contribution Graph (Snake)
+## 🕒 Coding Rhythm
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KULLANICI_ADIN&theme=transparent&utcOffset=3" />
+</p>
+
+---
+
+## 🧬 Contribution Flow
 
 <p align="center">
   <img src="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/blob/output/github-contribution-grid-snake.svg" />
@@ -54,17 +47,16 @@ Next.js • React • MongoDB • TailwindCSS
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-| Proje | Açıklama |
-|------|---------|
-| **Modern Web Platform** | Next.js + MongoDB |
-| **E-Commerce UI** | React + Tailwind |
-| **Admin Dashboard** | Full Stack |
+ sayısını az tut – kalite odaklı
+
+- **Modern Dashboard UI** – Next.js + Tailwind  
+- **Full Stack Platform** – React + MongoDB  
+- **Reusable Component System** – UI Architecture
 
 ---
 
-## 📫 Contact
-
-- GitHub: https://github.com/KULLANICI_ADIN
-- Portfolio: (varsa)
+<p align="center">
+  <sub>Focused on building clean, modern and maintainable web experiences.</sub>
+</p>
